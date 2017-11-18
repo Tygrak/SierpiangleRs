@@ -1,0 +1,8 @@
+[package]
+name = "sierpiangle"
+version = "0.1.0"
+authors = ["Tygrak <Tygrak@users.noreply.github.com>"]
+
+[dependencies]
+image = "*"
+rand = "*"
